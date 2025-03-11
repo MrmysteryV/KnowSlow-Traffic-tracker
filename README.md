@@ -8,4 +8,4 @@ pip install dlib
 pip install numpy
 pip install opencv-python
 
-Parts of the code are inspired by https://github.com/kraten/vehicle-speed-check and the identification model is the same as the one used in this project
+Parts of the code are inspired by https://github.com/kraten/vehicle-speed-check and the identification model is the same as the one used in that project
